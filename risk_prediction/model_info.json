@@ -1,0 +1,23 @@
+{
+  "model_version": "V1",
+  "training_rows": 5000,
+  "test_accuracy": 0.836,
+  "features_raw": [
+    "Year",
+    "Month",
+    "Day of Week",
+    "Number of Vehicles Involved",
+    "Vehicle Type Involved",
+    "Weather Conditions",
+    "Road Type",
+    "Road Condition",
+    "Lighting Conditions",
+    "Traffic Control Presence",
+    "Speed Limit (km/h)",
+    "Driver Age",
+    "Driver License Status",
+    "Alcohol Involvement",
+    "Accident Location Details",
+    "Hour"
+  ]
+}
